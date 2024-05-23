@@ -11,6 +11,20 @@
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write ."
 	},
+	"author": {
+		"name": "Ibrahim Raimi",
+		"email": "raimiibrahim44@gmail.com",
+		"url": "http://ibrahimraimi.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ibrahimraimi/svelte-starter"
+	},
+	"bugs": {
+		"url": "https://github.com/ibrahimraimi/svelte-starter"
+	},
+	"homepage": "https://github.com/ibrahimraimi/svelte-starter",
+	"license": "MIT",
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
