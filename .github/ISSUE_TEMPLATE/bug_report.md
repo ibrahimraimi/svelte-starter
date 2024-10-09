@@ -1,11 +1,11 @@
 ---
 name: Bug report
-about: Report a bug encountered while using the QuickSail Framework
+about: Report a bug encountered while using the Sveltekit Starter
 labels: bug
 ---
 
 <!--
-Welcome to the QuickSail stack
+Welcome to the Sveltekit Starter
 -->
 
 ## Description of the issue
@@ -35,4 +35,4 @@ Welcome to the QuickSail stack
 
 ## Additional information
 
-OS version / distribution, `QuickSail` install method, etc.
+OS version / distribution, `Sveltekit Starter` install method, etc.
