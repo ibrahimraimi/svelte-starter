@@ -11,7 +11,8 @@
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write .",
 		"test:unit": "vitest",
-		"test": "npm run test:unit -- --run"
+		"test": "npm run test:unit -- --run && npm run test:e2e",
+		"test:e2e": "playwright test"
 	},
 	"author": {
 		"name": "Ibrahim Raimi",
@@ -29,6 +30,7 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@melt-ui/svelte": "^0.83.0",
+		"@playwright/test": "^1.45.3",
 		"@significa/svelte-ui": "^0.0.34",
 		"@sveltejs/adapter-auto": "^3.2.5",
 		"@sveltejs/kit": "^2.6.3",
