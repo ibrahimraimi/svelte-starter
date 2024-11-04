@@ -29,7 +29,7 @@
 	"homepage": "https://github.com/ibrahimraimi/svelte-starter",
 	"license": "MIT",
 	"devDependencies": {
-		"@melt-ui/svelte": "^0.83.0",
+		"@melt-ui/svelte": "^0.86.0",
 		"@playwright/test": "^1.48.0",
 		"@significa/svelte-ui": "^0.0.34",
 		"@sveltejs/adapter-auto": "^3.2.5",
